@@ -113,7 +113,7 @@
   Developed a Module Pool application with Tabstrip Control to create an interactive SAP screen for displaying and maintaining business data. The project involved screen design, PBO/PAI modules, subscreens, and user navigation.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/NANDA-KUMAR-S-g4-sap-abap/blob/1ef7ab33adde026431e59eff95650a81ea9aa3a0/Final%20capstone%20project/MPP%20Tabstrip%20control.txt" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/NANDA-KUMAR-S-g4-sap-abap/blob/main/Final%20capstone%20project/README.md" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
